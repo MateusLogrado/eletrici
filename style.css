@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(252, 252, 160);
+    color: rgb(126, 151, 89);
+}
+
+nav a{
+    text-decoration: none;
+    color: green;
+}
+
+img{
+    border: 4px solid;
+    border-radius: 20px;
+}
